@@ -12,7 +12,7 @@ We will add more links soon.
 
 **OVPworld** provides the source of many good test suites: [OVPworld.org](https://www.ovpworld.org/library/wikka.php?wakka=riscvOVPsimPlus).
 
-RV32I, RV32M, RV32C RV64I, RV64M, RV64C
+RV32I, RV32M, RV32C, RV64I, RV64M, RV64C
 
 RV32F, RV64F, RV64D
 
