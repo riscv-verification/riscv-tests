@@ -1,4 +1,4 @@
-# High quality RISC-V test suites
+# High Quality RISC-V Test Suites
 =================================
 
 When verifying a CPU design - you can never have enough tests...
