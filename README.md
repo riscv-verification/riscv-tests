@@ -22,4 +22,4 @@ RV32B, RV64B
 
 RV32V - Vector.
 
-You can see the details of the tests here: [test_details](https://github.com/riscv-ovpsim/imperas-riscv-tests/tree/v20210202/riscv-test-suite).
+You can see the details of the tests here: [test_details](https://github.com/riscv-ovpsim/imperas-riscv-tests/tree/master/riscv-test-suite).
