@@ -12,14 +12,16 @@ We will add more links soon.
 
 **OVPworld** provides the source of many good test suites: [OVPworld.org](https://www.ovpworld.org/library/wikka.php?wakka=riscvOVPsimPlus).
 
-RV32I, RV32M, RV32C, RV64I, RV64M, RV64C
+RV32I, RV32M, RV32C, RV64I, RV64M, RV64C, Zmmul - base
 
-RV32F, RV64F, RV64D
+RV32F, RV64F, RV64D - floating point
 
-RV32Kscalar, RV64Kscalar
+RV32Kscalar, RV64Kscalar - crypto
 
-RV32B, RV64B
+RV32B, RV64B - bitmanip
 
-RV32V - Vector.
+RV32V - vector
+
+RV32P, RV64P - DSP/SIMD
 
 You can see the details of the tests here: [test_details](https://github.com/riscv-ovpsim/imperas-riscv-tests/tree/master/riscv-test-suite).
